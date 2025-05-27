@@ -1,0 +1,6 @@
+RewriteEngine On
+
+# Redirigir todas las solicitudes hacia index.php en la raíz del proyecto
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ /index.php [QSA,L]

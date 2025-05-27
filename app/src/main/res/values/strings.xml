@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Fix Tech</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login_button">Login</string>
+    <string name="register_button">Register</string>
+    <string name="login_title">Login</string>
+    <string name="name">Name</string>
+    <string name="lastname">Last Name</string>
+    <string name="nickname">Nick Name</string>
+    <string name="phonenumber">Phone Number</string>
+    <string name="porfilepicture">Porfile Picture</string>
+    <string name="save_as_draft">Save as draft</string>
+    <string name="title">Title</string>
+    <string name="post">Post</string>
+    <string name="description">Description</string>
+    <string name="btn_addimage">Add image</string>
+    <string name="btn_publish">Publish</string>
+</resources>

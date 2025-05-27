@@ -1,0 +1,8 @@
+<ripple xmlns:android="http://schemas.android.com/apk/res/android"
+    android:color="#FFFFFF"> <!-- Color del ripple -->
+    <item>
+        <shape>
+            <corners android:radius="20dp"/> <!-- Radio redondeado -->
+        </shape>
+    </item>
+</ripple>

@@ -1,0 +1,20 @@
+{
+  "name": "vocalem/capa-intermedia",
+  "description": "Proyecto de capa intermedia para LMAD",
+  "type": "project",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "App\\": "app/"
+    }
+  },
+  "authors": [
+    {
+      "name": "VocalEm",
+      "email": "emilianofriasfelix@outlook.com"
+    }
+  ],
+  "require": {
+    "vlucas/phpdotenv": "^5.6"
+  }
+}
