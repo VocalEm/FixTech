@@ -33,6 +33,6 @@
 <h2>👥 Team</h2>
 <p>FixTech was developed as a collaborative project with shared responsibilities:</p>
 <ul>
-  <li><strong>Frontend:</strong> Kotlin app with UI and local storage handled by the mobile developer</li>
-  <li><strong>Backend:</strong> API, database structure, server configuration, and partial frontend integration by <em>your name here</em></li>
+  <li><strong>Frontend:</strong> Kotlin app with UI and local storage</li>
+  <li><strong>Backend:</strong> API, database structure, server configuration, and partial frontend integration</li>
 </ul>
